@@ -1,1 +1,1 @@
-# unirate
+# Rate My Schools
